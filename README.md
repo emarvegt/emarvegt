@@ -1,0 +1,6 @@
+- Hi, I’m @emarvegt
+- I’m a designer that knows a bit about coding, knows a lot about design systems and sound (synthesis) for interaction, specifically for physical products, and even more specifically for automotive. 
+- I'm generally interested in the intersection of user experience and technology.
+- I'm currently circling the world of machine learning, trying to find a way in that makes sense for me to spend time on without getting sucked into a massive rabbit hole. Yeah, I know, good luck with that.
+- I’m looking to collaborate on projects involving the topics mentioned above.
+- You can reach me through emarvegt.com, or through here.
